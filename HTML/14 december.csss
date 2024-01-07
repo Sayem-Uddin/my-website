@@ -1,0 +1,15 @@
+ .service-container{
+    background-color: aqua;
+   
+}
+.ceo-container{
+    display: flex;
+}
+.ceo{
+    display: flex;
+}
+.img-ceo{
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+}
